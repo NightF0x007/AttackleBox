@@ -170,6 +170,8 @@ https://github.com/blacklanternsecurity/writehat
 https://github.com/carlospolop/AzureAppsSweep
 https://github.com/carlospolop/cloudpeass
 https://github.com/carlospolop/azure_oauth_phishing_example
+https://github.com/nromsdahl/squarephish2
+https://github.com/secureworks/SquarePhish
 ```
 
 ### Forensics
