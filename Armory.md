@@ -172,6 +172,16 @@ https://github.com/carlospolop/cloudpeass
 https://github.com/carlospolop/azure_oauth_phishing_example
 https://github.com/nromsdahl/squarephish2
 https://github.com/secureworks/SquarePhish
+https://cloud.hacktricks.wiki/en/pentesting-cloud/pentesting-cloud-methodology.html
+https://github.com/BishopFox/cloudfox
+https://github.com/JulianHayward/Azure-MG-Sub-Governance-Reporting
+https://github.com/aquasecurity/cloudsploit
+https://github.com/cyberark/SkyArk
+https://github.com/nccgroup/ScoutSuite
+https://github.com/prowler-cloud/prowler
+https://github.com/turbot/steampipe-mod-azure-compliance
+https://github.com/turbot/steampipe-mod-azure-insights
+https://github.com/turbot/steampipe-mod-azuread-insights
 ```
 
 ### Forensics
