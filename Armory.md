@@ -166,13 +166,15 @@ https://github.com/blacklanternsecurity/writehat
 ```
 
 ### Cloud
+[Device Code Phishing](https://www.blackhillsinfosec.com/dynamic-device-code-phishing/)
+[Hacking Your Cloud: Tokens Edition 2.0](https://www.trustedsec.com/blog/hacking-your-cloud-tokens-edition-2-0)
+[HackTricks Cloud Methodology](https://cloud.hacktricks.wiki/en/pentesting-cloud/pentesting-cloud-methodology.html)
 ```
 https://github.com/carlospolop/AzureAppsSweep
 https://github.com/carlospolop/cloudpeass
 https://github.com/carlospolop/azure_oauth_phishing_example
 https://github.com/nromsdahl/squarephish2
 https://github.com/secureworks/SquarePhish
-https://cloud.hacktricks.wiki/en/pentesting-cloud/pentesting-cloud-methodology.html
 https://github.com/BishopFox/cloudfox
 https://github.com/JulianHayward/Azure-MG-Sub-Governance-Reporting
 https://github.com/aquasecurity/cloudsploit
@@ -182,8 +184,13 @@ https://github.com/prowler-cloud/prowler
 https://github.com/turbot/steampipe-mod-azure-compliance
 https://github.com/turbot/steampipe-mod-azure-insights
 https://github.com/turbot/steampipe-mod-azuread-insights
+
+https://github.com/dirkjanm/ROADtools
+https://github.com/trustedsec/CS-Remote-OPs-BOF
+https://github.com/f-bader/TokenTacticsV2
 https://github.com/rvrsh3ll/TokenTactics
 https://github.com/Rob--W/cors-anywhere
+https://github.com/BloodHoundAD/BARK
 ```
 
 ### Forensics
