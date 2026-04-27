@@ -183,6 +183,7 @@ https://github.com/turbot/steampipe-mod-azure-compliance
 https://github.com/turbot/steampipe-mod-azure-insights
 https://github.com/turbot/steampipe-mod-azuread-insights
 https://github.com/rvrsh3ll/TokenTactics
+https://github.com/Rob--W/cors-anywhere
 ```
 
 ### Forensics
